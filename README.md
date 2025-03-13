@@ -1,7 +1,10 @@
-# Full-stack-open
+# Full Stack Open - Create React App (CRA)
 
-Tämä repositorio sisältää Full Stack Open -kurssin tehtäviä vuodelta 2021.
+Tämä repositorio sisältää Full Stack Open -kurssin tehtäviä vuodelta 2021, kuudenteen osaan saakka.
 
+## Huomio Create React App:ista
+
+Tämä projekti käyttää Create React App (CRA) -työkalua, joka ei ole enää aktiivisessa kehityksessä. React-tiimi on ilmoittanut joulukuussa 2023, että he eivät enää suosittele CRA:ta uusille projekteille.
 ## Projektin rakenne
 
 Projekti on jaettu osiin kurssin osien mukaisesti:
